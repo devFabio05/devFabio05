@@ -14,3 +14,4 @@
 
 Estudando no terceiro ano do ensino médio da ETEC Ilza Nascimento Pintus 195 (SJC-SP)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFabio05)](https://github.com/devFabio05/github-readme-stats)
